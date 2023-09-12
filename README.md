@@ -21,7 +21,6 @@ Import the necessary PySpark SQL functions for this assignment.
 Read the home_sales_revised.csv data in the starter code into a Spark DataFrame.
 
 
-
 Create a temporary table called home_sales.
 
 Answer the following questions using SparkSQL:
